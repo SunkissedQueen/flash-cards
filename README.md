@@ -29,7 +29,8 @@ Welcome to my Flashcards Application! This project aims to enhance a user's lear
    yarn start
    ```  
 
-***Phase 1: React Application with Mock Data, No Rails App Available yet, Steps 4 -5 not relevant***
+***Phase 1: React Application with Mock Data, No Rails App Available yet, Steps 4 -5 not relevant***  
+
 4. **Set Up Rails API**: Navigate to the `api` directory and install Rails dependencies.
    ```
    cd ciat-flashcards-api
