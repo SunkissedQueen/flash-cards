@@ -24,7 +24,11 @@ const Header = () => {
         <Nav className="me-auto" navbar>
           <NavItem>
             <NavLink to="/all-cards" id="logo">
-              See All The Flashcards
+              Terms
+            </NavLink>
+            {" "}
+            <NavLink to="/all-cards" id="logo">
+              Multiple Choice
             </NavLink>
           </NavItem>
         </Nav>
